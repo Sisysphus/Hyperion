@@ -1,0 +1,73 @@
+1. Feature list and database schema
+2. Migrations ( which create tables ) - here's what a table should look like 1 time thing
+3. Models ( which you will use to query your DB )  - utilities forever
+4. Seeder ( add data to database for development)
+
+
+
+Tuesday: 
+
+
+5. Express routes to send the data as JSON
+    /api/beers
+    /api/projects/16/
+
+6. Front-end components that expect data 
+    React component that takes a prop 
+    that looks like what is in your database
+
+Workflow can be seperate 
+
+
+GET /api/dogs/1
+{ name: "Penny", age: 0.95 }
+
+hardcoding in a variable 
+{ name: "Bandit", age: 4.5 }
+
+
+
+Robinhood Clone:
+
+
+Features :
+    "Dashboard + Portfolio":
+
+
+    "Asset/Stock detail":
+
+
+    "Watchlist":
+
+
+    "Asset / Stock search "
+
+
+
+All tables:
+    id
+    createdAt
+    updatedAt
+
+Users:
+    email  
+    password
+    buying_power 
+
+Watchlist
+
+
+Assets | Holdings
+
+
+
+
+
+    
+
+
+
+
+
+
+
